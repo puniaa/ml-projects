@@ -24,8 +24,8 @@ A simple linear regression model trained on the BMI feature of the diabetes data
 
 ## Related Projects
 
-### 💳 [Credit Card Fraud Detection](https://github.com/anannya-punia/numpy-projects/tree/main/fraud-detection)
-Located in [`numpy-projects`](https://github.com/anannya-punia/numpy-projects), this project uses logistic regression and random forests to identify fraudulent transactions in a real-world dataset.
+### 💳 [Credit Card Fraud Detection](https://github.com/puniaa/numpy-projects/tree/main/FraudDetector)
+Located in [`numpy-projects`](https://github.com/puniaa/numpy-projects), this project uses logistic regression and random forests to identify fraudulent transactions in a real-world dataset.
 
 **Skills demonstrated:**
 - Binary classification
